@@ -2,8 +2,8 @@
 
 num = -3 # num은 음의 정수
 
-print(bin(num))
+num = ~ (num) + 1
 
-print(~(num))
+print(num)
 
 #print(num) # 3 출력
